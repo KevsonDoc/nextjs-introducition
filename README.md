@@ -1,4 +1,10 @@
+# introduction to nextjs and SSR concepts with styled components
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="./print-screen.jpeg" style="margin: 40px 0 40px 0"/>
+
+## [`Link for application https://next-test-teal-tau.vercel.app/`](https://next-test-teal-tau.vercel.app/)
+
 
 ## Getting Started
 
